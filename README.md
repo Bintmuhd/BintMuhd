@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Fatima
 #### Frontend Developer and Technical Writer
-![Frontend Developer and Technical Writer](https://www.canva.com/design/DAEYoQ6kVB4/gJXaCNQSLpmFqUuyFi_Xjw/view?utm_content=DAEYoQ6kVB4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
+![Frontend Developer and Technical Writer](https://user-images.githubusercontent.com/66806471/111970013-1f362a80-8afb-11eb-8e60-64b313a41bb3.png)
 
 I am an AI Enthusiast, I do frontend development and I write technical articles on the side. I really enjoy bringing designs and UI to life with frontend and I love doing this with HTML, CSS and JavaScript (React). I avail myself with different resources and knowledge on new frameworks and languages as I love to learn and share what I have learnt. Some of my favorite frameworks/libraries includes, Tailwind.css, Chakra UI, Framer Motion and Next.js etc.
 
