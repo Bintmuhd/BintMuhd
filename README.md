@@ -12,6 +12,7 @@ I am currently intrigued in contributing to opensource and creating contents to 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bint-muhd.vercel.app/) -->
 
 #### My major Skills: 
+- Node.js 
 - Typescript
 - Vue.Js
 - Next.JS
@@ -20,7 +21,7 @@ I am currently intrigued in contributing to opensource and creating contents to 
 - CSS
 - HTML 
 #### also,
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning cloud
 
 
 <img src='https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif'/>
