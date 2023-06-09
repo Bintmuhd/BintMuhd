@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Fatima
 #### Software Developer and Technical Writer
-![Frontend Developer and Technical Writer](https://user-images.githubusercontent.com/66806471/111970013-1f362a80-8afb-11eb-8e60-64b313a41bb3.png)
 
 ![Green and White Technology LinkedIn Banner](https://github.com/Bintmuhd/BintMuhd/assets/66806471/63791d70-6948-465e-b702-16f840fa3e2e)
 
