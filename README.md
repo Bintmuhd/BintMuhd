@@ -1,13 +1,19 @@
 ### Hi there 👋, I'm Fatima
-#### Frontend Developer and Technical Writer
+#### Software Developer and Technical Writer
 ![Frontend Developer and Technical Writer](https://user-images.githubusercontent.com/66806471/111970013-1f362a80-8afb-11eb-8e60-64b313a41bb3.png)
 
-I am an AI Enthusiast, I do frontend development and I write technical articles on the side. I really enjoy bringing designs and UI to life with frontend and I do this with HTML, CSS and JavaScript (React or Vue). I avail myself with different resources and knowledge on new frameworks and languages as I love to learn and share what I have learnt. Some of my favorite frameworks/libraries includes, Tailwind.css, Material UI and Next.js,  etc.
+I am a software developer with 5+ years experience and I am extremely passionate about what I do as I enjoy bringing ideas to life and delivering seamless interactions that engage and delight users. The thing I love the most about what I do is the end product. I appreciate seeing people use applications that i built. I thrive on transforming design concepts into pixel-perfect, responsive websites and applications with HTML, CSS, JavaScript, or Typescript.
 
-I am currently intrigued in contributing to opensource and creating contents to help newbies... If you want to find out more about my interests, passions and activities, then please follow me on any of my social media below.
+Over the years, I have had the opportunity to work in organizations and on projects that have challenged and helped me grow as well as equip myself with diverse skill sets, including expertise in modern frameworks such as React, Vue.js, and Node.js. I am constantly learning, exploring new technologies, and staying up-to-date with industry trends to ensure I can deliver cutting-edge solutions.
+
+Beyond the code, I contribute to open source and create technical content as a form of service to the tech community. I am also a highly driven professional who possesses excellent communication and time management skills. As a result, I can work with little or no supervision, making me adaptable to any work environment. 
+
+If you are looking to interact and discuss further more with me, please reach out to me via any of my social media accounts listed below. 
+I look forward to meeting you.
+
 
 #### Social Media:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Bintmuhd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bintmuhd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bint.muhd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/BintCodes )  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Bintmuhd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fatima-muhd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bint.muhd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/BintCodes )  
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bint-muhd.vercel.app/) -->
 
