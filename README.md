@@ -29,7 +29,7 @@ I look forward to meeting you.
 - HTML 
 #### also,
 - 🌱 I’m currently learning cloud
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
 
 
 <img src='https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif'/>
