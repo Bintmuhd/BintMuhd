@@ -32,4 +32,4 @@ I look forward to meeting you.
 
 
 <img src='https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif'/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bintMuhd&show_icons=true&theme=transparent)
