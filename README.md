@@ -2,6 +2,8 @@
 #### Software Developer and Technical Writer
 
 ![Green and White Technology LinkedIn Banner](https://github.com/Bintmuhd/BintMuhd/assets/66806471/63791d70-6948-465e-b702-16f840fa3e2e)
+![Green and White Technology LinkedIn Banner](Fati Muhammad.jpg)
+
 
 I am a software developer with 5+ years experience and I am extremely passionate about what I do as I enjoy bringing ideas to life and delivering seamless interactions that engage and delight users. The thing I love the most about what I do is the end product. I appreciate seeing people use applications that i built. I thrive on transforming design concepts into pixel-perfect, responsive websites and applications with HTML, CSS, JavaScript, or Typescript.
 
