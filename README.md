@@ -32,6 +32,7 @@ I look forward to meeting you.
 - HTML 
 #### also,
 - 🌱 I’m currently learning cloud
+- ✨
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=1)](https://skillicons.dev)
 
