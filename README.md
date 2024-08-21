@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm Fatima
-## Fatima Muhammad
 #### Software Developer and Technical Writer
 
 ![Green and White Technology LinkedIn Banner](https://github.com/Bintmuhd/BintMuhd/assets/66806471/63791d70-6948-465e-b702-16f840fa3e2e)
