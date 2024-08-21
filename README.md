@@ -3,6 +3,8 @@
 
 ![Green and White Technology LinkedIn Banner](https://github.com/Bintmuhd/BintMuhd/assets/66806471/63791d70-6948-465e-b702-16f840fa3e2e)
 
+<img src="water-lily-8175845_1280.jpg">
+
 I am a software developer with 5+ years experience and I am extremely passionate about what I do as I enjoy bringing ideas to life and delivering seamless interactions that engage and delight users. The thing I love the most about what I do is the end product. I appreciate seeing people use applications that i built. I thrive on transforming design concepts into pixel-perfect, responsive websites and applications with HTML, CSS, JavaScript, or Typescript.
 
 Over the years, I have had the opportunity to work in organizations and on projects that have challenged and helped me grow as well as equip myself with diverse skill sets, including expertise in modern frameworks such as React, Vue.js, and Node.js. I am constantly learning, exploring new technologies, and staying up-to-date with industry trends to ensure I can deliver cutting-edge solutions.
