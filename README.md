@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Fatima Muhammad</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I am Fatima</h3>
 
 <!-- Profile Views -->
 
@@ -7,12 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+<!--   <a href="https://www.giftegwuenu.dev">Website</a> • -->
+  <a>Website</a> •
+  <a href="https://x.com/BintCodes">X</a>
+  <a href="https://www.linkedin.com/in/fatima-muhd/">LinkedIn</a>
 </p>
 
  <!-- About section -->
-
+ 
 ---
 ✨ I'm a frontend engineer and a developer advocate at Cloudflare passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
