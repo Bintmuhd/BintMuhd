@@ -9,6 +9,7 @@
 <p align="center">
 <!--   <a href="https://www.giftegwuenu.dev">Website</a> • -->
   <a>Website</a> •
+  <a>Blog</a> •
   <a href="https://x.com/BintCodes">X</a> •
   <a href="https://www.linkedin.com/in/fatima-muhd/">LinkedIn</a>
 </p>
@@ -16,19 +17,17 @@
  <!-- About section -->
  
 ---
-✨ I'm a frontend engineer and a developer advocate at Cloudflare passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+✨  I'm a passionate developer who loves creating amazing web experiences through code. I also enjoy sharing my knowledge by writing about my experiences, teaching, and mentoring junior developers. Building and contributing to technical communities is something I deeply value, and I’m always eager to learn about new trends in my field.
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
-
-![Bintmuhd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bintmuhd&show_icons=true&theme=radical)
+When I'm not coding or working on tech-related things, you’ll find me watching movies or enjoying outdoor activities.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+- 💬 Ask me about: Vue, React, Next, developer advocacy etc.
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatima-muhd/_), [X](https://x.com/BintCodes), [Email](mailto:fatimuhd247@gmail.com)
 
 - ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
 
