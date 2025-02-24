@@ -29,7 +29,7 @@ When I'm not coding or working on tech-related things, you’ll find me watching
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatima-muhd/_), [X](https://x.com/BintCodes), [Email](mailto:fatimuhd247@gmail.com)
 
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- ⚡ Fun fact: I love trying new things—whether it’s a new hobby, a new sport, or just a new way to make my favorite meal
 
 <!-- About section: END -->
 
@@ -66,33 +66,6 @@ When I'm not coding or working on tech-related things, you’ll find me watching
    <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
-
-<!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bintmuhd&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-![](https://komarev.com/ghpvc/?username=bintmuhd)
-
-<!-- THE END -->
-
-
-<!--
-**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
