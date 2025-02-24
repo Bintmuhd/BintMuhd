@@ -9,7 +9,7 @@
 <p align="center">
 <!--   <a href="https://www.giftegwuenu.dev">Website</a> • -->
   <a>Website</a> •
-  <a href="https://x.com/BintCodes">X</a>
+  <a href="https://x.com/BintCodes">X</a> •
   <a href="https://www.linkedin.com/in/fatima-muhd/">LinkedIn</a>
 </p>
 
@@ -20,11 +20,11 @@
 
 I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
 
+![Bintmuhd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bintmuhd&show_icons=true&theme=radical)
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-- 😄 My Pronouns: She/Her   
+  
 
 - 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 
