@@ -1,2 +1,3 @@
-![Waving Hand](https://your-hosted-gif-url.gif)
+<img src="https://your-hosted-svg-url.svg" width="30px">
+
 
