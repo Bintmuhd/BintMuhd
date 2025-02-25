@@ -2,8 +2,8 @@
 
 
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I am Fatima</h3>
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/5fc3fe53-0748-4f9a-9480-c6b5736f722b" width="500" height="320" />
-![Minimalist Floral Twitter Header](https://github.com/user-attachments/assets/5fc3fe53-0748-4f9a-9480-c6b5736f722b)
+<img align="center" alt="GIF" src="https://github.com/user-attachments/assets/5fc3fe53-0748-4f9a-9480-c6b5736f722b" />
+
 
 <p align="center">
 <!--   <a href="https://www.giftegwuenu.dev">Website</a> • -->
