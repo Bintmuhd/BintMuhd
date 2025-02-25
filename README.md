@@ -19,10 +19,12 @@
 When I'm not coding or working on tech-related things, you’ll find me watching movies or enjoying outdoor activities.
 
 
-- 💬 Ask me about: Vue, React, Next, Typescript, Developer Advocacy etc.
+- 💬 Ask me about: Vue, React, Next, Node, Typescript, Developer Advocacy etc.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatima-muhd/_), [X](https://x.com/BintCodes), [Email](mailto:fatimuhd247@gmail.com)
-
+  
+- 🌱 I’m currently learning more about how to build a tech community, Angular and Cybersecurity.
+  
 - ⚡ Fun fact: I love trying new things—whether it’s a new hobby, a new sport, or just a new way to make my favorite meal
 
 
