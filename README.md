@@ -29,13 +29,6 @@ When I'm not coding or working on tech-related things, you’ll find me watching
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatima-muhd/_), [X](https://x.com/BintCodes), [Email](mailto:fatimuhd247@gmail.com)
 
-- 📫 How to reach me:  <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@lauragift_
-/"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
-
 - ⚡ Fun fact: I love trying new things—whether it’s a new hobby, a new sport, or just a new way to make my favorite meal
 
 <!-- About section: END -->
@@ -43,13 +36,12 @@ When I'm not coding or working on tech-related things, you’ll find me watching
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
-    <p>
+<!--     <p>
         <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@lauragift_
 /"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
 <a href="https://www.youtube.com/c/EgwuenuGift"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
+   </p> -->
 
  <!-- Conecct section: END -->
  
