@@ -6,9 +6,8 @@
 <p align="center">
 <!--   <a href="https://www.giftegwuenu.dev">Website</a> • -->
   <a>Website</a> •
-  <a>Blog</a> •
-  <a href="https://x.com/BintCodes">X</a> •
-  <a href="https://www.linkedin.com/in/fatima-muhd/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/fatima-muhd/">LinkedIn</a> •
+  <a>Blog</a> 
 </p>
 
  <!-- About section -->
