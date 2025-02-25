@@ -1,6 +1,7 @@
 <!-- Heading -->
-<img align="center" alt="GIF" src="https://https://github.com/user-attachments/assets/4ec23f69-77d9-4382-b748-a9fca308fc6c" />
+<img align="center" alt="GIF" src="https://github.com/user-attachments/assets/eb6790a9-e112-4101-9b3e-6e260fc6fd4e" />
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I am Fatima</h3>
+![Minimalist Floral Twitter Header (1)](https://github.com/user-attachments/assets/eb6790a9-e112-4101-9b3e-6e260fc6fd4e)
 
 <p align="center">
 <!--   <a href="https://www.giftegwuenu.dev">Website</a> • -->
