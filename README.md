@@ -28,7 +28,7 @@ When I'm not coding or working on tech-related things, you’ll find me watching
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BwczRoMGUwaXJpNjA1dndvdHBvM2pocWhienhtMnAwN3JpcHg3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHFRbmaZtBRhXG/giphy.gif"/>
+<img alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BwczRoMGUwaXJpNjA1dndvdHBvM2pocWhienhtMnAwN3JpcHg3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHFRbmaZtBRhXG/giphy.gif"/>
   
 
 <!-- About section: END -->
